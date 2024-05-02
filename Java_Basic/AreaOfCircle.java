@@ -4,6 +4,7 @@ import java.util.*;
 
 public class AreaOfCircle {
     public static void main(String agrs[]) {
+        System.out.print("Enter Radius: ");
         Scanner sc = new Scanner(System.in);
         float rad = sc.nextFloat();
         float area = 3.14f * rad * rad;
