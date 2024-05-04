@@ -29,7 +29,8 @@ public class Loops{
 
 
         // Break Statement - to exit the loop 
-        // Continue Statement - 
+        // Continue Statement - To skip an Iteration
+        
 
 
     }
