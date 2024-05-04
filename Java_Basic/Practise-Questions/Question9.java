@@ -23,7 +23,7 @@ public class Question9{
             if(isPrime == true){
             System.out.println("The entered number is Prime n = " + n);
         } else{
-            System.out.println("The entered number is not Prime n = " + n);
+            System.out.println("The entered number Composite n = " + n);
         }
         }
 
