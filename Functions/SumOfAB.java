@@ -4,7 +4,7 @@ import java.util.*;
 
 public class SumOfAB{
     public static void calculateSum(){
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.i n);
         System.out.print("Enter a and b: ");
         int a = sc.nextInt();
         int b = sc.nextInt();
